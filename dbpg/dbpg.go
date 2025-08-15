@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/wb-go/wbf/retry"
+	"github.com/kxddry/wbf/retry"
 
 	_ "github.com/lib/pq"
 )

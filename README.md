@@ -116,9 +116,9 @@ err := retry.Do(func() error {
 Для использования импортируйте пакеты так:
 
 ```go
-import "github.com/wb-go/wbf/dbpg"
-import "github.com/wb-go/wbf/redis"
-import "github.com/wb-go/wbf/kafka"
+import "github.com/kxddry/wbf/dbpg"
+import "github.com/kxddry/wbf/redis"
+import "github.com/kxddry/wbf/kafka"
 // и т.д.
 ```
 

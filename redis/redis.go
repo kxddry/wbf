@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/go-redis/redis/v8"
-	"github.com/wb-go/wbf/retry"
+	"github.com/kxddry/wbf/retry"
 )
 
 // NoMatches is used for when Redis did not get any matches.
